@@ -1,0 +1,39 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+div{
+    background-color: aquamarine;
+    border-radius: 2vw;
+    width: 50%;
+    padding: 20px;
+    margin: 15%;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    font-size: 4vw;
+    text-align: justify;
+}
+ 
+#input{
+    align-items: center;
+    display: block;
+    margin-top: 1vw;
+}
+
+#button{
+    font-size: 2vw;
+    padding: 0.5vw;
+    background: coral;
+    border: 0.3vw solid coral;
+    border-radius: 2vw;
+    align-items: center;
+
+}
+
